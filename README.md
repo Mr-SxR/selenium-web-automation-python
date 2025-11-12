@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/headerimg.jpg" alt="Python + Selenium Automation Banner - Mr-SxR" width="100%">
+</p>
+
 # 🚀 Automate Any Website Using Python and Selenium — A Practical Guide for Freelancers & Businesses
 
 **Stop wasting hours doing repetitive online tasks!**  
